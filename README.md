@@ -8,7 +8,6 @@ The application allows users to explore vanilla through AR-based 3D objects, mul
 
 This project was developed as an academic project, demonstrating the practical use of AR technologies, multimedia integration, and mobile user interaction.
 
----
 
 ## 🎯 Purpose of the Application
 
@@ -20,7 +19,6 @@ The main goals of this application are:
 
 Users are encouraged to carefully observe the AR content, as the information presented is later used in the quiz section.
 
----
 
 ## 🧩 Application Features
 
@@ -44,7 +42,6 @@ Users are encouraged to carefully observe the AR content, as the information pre
 - Sound effects for answer selection
 - Final score display with retry option
 
----
 
 ## 🛠 Technologies Used
 
@@ -56,7 +53,6 @@ Users are encouraged to carefully observe the AR content, as the information pre
 - Git LFS (Large media file management)
 - Android Build Target
 
----
 
 ## 📁 Project Structure
 
@@ -68,7 +64,6 @@ The repository includes only essential project files:
 
 Generated folders such as Library, Logs, and build outputs are excluded using .gitignore.
 
----
 
 ## 🎬 Demo Video
 
@@ -78,14 +73,12 @@ https://drive.google.com/file/d/1wToTH-MeGOjKcqAk9rC1aRPVH8DTsBGW/view?usp=drive
 
 (The video demonstrates AR interaction, multimedia content, and quiz functionality.)
 
----
 
 ## 📲 Platform
 
 - Target platform: Android
 - The application is designed and tested on mobile devices.
 
----
 
 ## 🚀 How to Run the Project
 
@@ -95,7 +88,6 @@ https://drive.google.com/file/d/1wToTH-MeGOjKcqAk9rC1aRPVH8DTsBGW/view?usp=drive
 3. Ensure required packages (Vuforia, TextMeshPro) are installed
 4. Build and run the project for Android
 
----
 
 ## 📚 Educational Value
 
@@ -105,9 +97,9 @@ This project demonstrates:
 - User interaction design for AR environments
 - Proper version control practices for Unity projects
 
----
 
 ## 👤 Author
 Ajdin Kanlić.
+
 Developed as part of an academic project in Faculty of Electrical Engineering Sarajevo.
 
