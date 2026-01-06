@@ -100,5 +100,5 @@ InitTestScene*.unity*
 
 # Extra (project specific)
 .vscode/
-app_BackUpThisFolder_ButDontShipItWithBuilds/
+app_BackUpThisFolder_ButDontShipItWithYourGame/
 *_BurstDebugInformation*
